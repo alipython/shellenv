@@ -58,3 +58,7 @@
           40～47　　　　分别表示背景色为黑、红、绿、橙、蓝、紫、青、灰
           100～106　　　分别表示背景色为深灰、淡红、淡绿、黄色、淡蓝、淡紫、青
 
+\e[ : Start color scheme.
+x;y : Color pair to use (x;y)
+$PS1 : Your shell prompt variable.
+\e[m : Stop color scheme.
